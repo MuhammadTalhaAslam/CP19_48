@@ -3,4 +3,4 @@ Muhammad Talha - 0046 - Must complete detailed study on numpy
 Muhammad Talha - 0062 - Must complete detailed study on opencv/opencv2
 Abdullah Afzal - 0061 - Must complete detailed study about hardware used in project
 Humaiz khalid - 0084 - Must study on droid app cam 
-Subhan -    - Start working on initial coding for project 
+Muhammad Soban - 0050 - Start working on initial coding for project 
