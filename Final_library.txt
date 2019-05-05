@@ -1,0 +1,5 @@
+library used in this project
+
+NUMPY
+OPENCV
+OPENCV2
